@@ -1,0 +1,6 @@
+
+sudo apt-get install build-essential liblo-dev libsamplerate-dev libjack-dev libsndfile1-dev libasound2-dev
+qmake
+make
+sudo make install
+

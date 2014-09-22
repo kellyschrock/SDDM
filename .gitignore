@@ -1,0 +1,11 @@
+todo.txt
+*.o
+sddm
+*.zip
+moc_*.cpp
+moc_*.h
+ui_*.cpp
+ui_*.h
+Makefile
+resources/
+obj/

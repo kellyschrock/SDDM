@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wavePlayer>
+	<drumkit name="Awwwww Yeah" level="100">
+		<instruments>
+			<instrument name="snare" noteNumber="38" level="100" pan="0" submix="snare">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l09.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l18.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l24.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l29.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l33.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l37.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l43.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/snr_ord_l45.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="kick" noteNumber="36" level="100" pan="0" submix="kick">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_opn_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_opn_14.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_23.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_26.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_32.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_38.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_40.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/kick_cls_44.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="hh-closed" noteNumber="42" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_07.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_09.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_15.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_19.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_23.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_27.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_31.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_top_33.wav"/>
+				</layers>
+				
+				<victims>
+					<victim noteNumber="46"/>
+				</victims>
+			</instrument>
+			
+			<instrument name="hh-open" noteNumber="46" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_07.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_10.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_12.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_15.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_17.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_19.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_20.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/13hat_opn_21.wav"/>
+				</layers>
+				<victims>
+					<victim noteNumber="42"/>
+				</victims>
+			</instrument>
+			
+			<instrument name="china" noteNumber="95" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_12.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_16.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_20.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_24.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_26.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_29.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_31.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="15&quot; crash" noteNumber="57" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_07.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_11.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_15.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_19.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_23.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_25.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_27.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_29.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="8&quot; splash" noteNumber="52" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_12.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_14.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_16.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_18.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_20.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_23.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_25.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="18&quot; crash" noteNumber="49" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_10.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_14.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_16.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_18.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_22.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_24.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_26.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/18crs_ord_28.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="20&quot; ride" noteNumber="51" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_14.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_16.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_20.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_24.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_26.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_ord_28.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_bel_13.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/20rde_bel_19.wav"/>
+				</layers>
+			</instrument>
+			
+			
+			<instrument name="hi tom" noteNumber="48" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_09.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_11.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_17.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_19.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_23.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_25.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_30.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_hi_33.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="mid tom" noteNumber="45" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_07.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_11.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_17.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_19.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_23.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_25.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_30.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_mid_33.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="floor tom" noteNumber="41" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_12.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_14.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_18.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_20.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_24.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_26.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/tom_flr_28.wav"/>
+				</layers>
+			</instrument>
+		</instruments>
+	</drumkit>
+</wavePlayer>
+

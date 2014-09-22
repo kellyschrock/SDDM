@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wavePlayer>
+	<drumkit name="Big Mono" level="100">
+		<instruments>
+			
+			<instrument name="Kick" noteNumber="36" level="100" pan="0" submix="kick">
+				<layers>
+					<layer velLo="0" velHi="11" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn01.wav"/>
+					<layer velLo="12" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn08.wav"/>
+					<layer velLo="89" velHi="99" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn09.wav"/>
+					<layer velLo="100" velHi="110" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn10.wav"/>
+					<layer velLo="111" velHi="121" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn11.wav"/>
+					<layer velLo="122" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigKick-Dyn12.wav"/>				
+				</layers>
+			</instrument>
+
+			<instrument name="Rimshot" noteNumber="37" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck01.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck02.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck03.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck04.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck05.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck06.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck07.wav"/>
+					<layer velLo="89" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_RimClck08.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="Snare" noteNumber="38" level="100" pan="0" submix="snare">
+				<layers>
+					<layer velLo="0" velHi="11" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH03.wav"/>
+					<layer velLo="12" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH04.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH05.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH06.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH07.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH08.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH09.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH10.wav"/>
+					<layer velLo="89" velHi="99" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH11.wav"/>
+					<layer velLo="100" velHi="110" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH12.wav"/>
+					<layer velLo="111" velHi="121" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH13.wav"/>
+					<layer velLo="122" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/Rodgers_DynLH14.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="HiHat Shut" noteNumber="42" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="11" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH01.wav"/>
+					<layer velLo="12" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH08.wav"/>
+					<layer velLo="89" velHi="99" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH09.wav"/>
+					<layer velLo="100" velHi="110" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH10.wav"/>
+					<layer velLo="111" velHi="121" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH11.wav"/>
+					<layer velLo="122" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynClsdLH12.wav"/>				
+				</layers>
+				
+				<victims>
+					<victim noteNumber="46"/>
+				</victims>
+			</instrument>
+			
+			<instrument name="HiHat Pedal" noteNumber="44" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="11" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed01.wav"/>
+					<layer velLo="12" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed08.wav"/>
+					<layer velLo="89" velHi="99" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed09.wav"/>
+					<layer velLo="100" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynPed10.wav"/>
+				</layers>
+				
+				<victims>
+					<victim noteNumber="46"/>
+				</victims>
+			</instrument>
+			
+			<instrument name="HiHat Open" noteNumber="46" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="11" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn01.wav"/>
+					<layer velLo="12" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn08.wav"/>
+					<layer velLo="89" velHi="99" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn09.wav"/>
+					<layer velLo="100" velHi="110" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn10.wav"/>
+					<layer velLo="111" velHi="121" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn11.wav"/>
+					<layer velLo="122" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildMstrsnd-DynSmiOpn12.wav"/>				
+				</layers>
+				<victims>
+					<victim noteNumber="42"/>
+				</victims>
+			</instrument>
+			
+<!-- 
+			<instrument name="china" noteNumber="95" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_12.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_16.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_20.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_24.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_26.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_29.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/19chn_ord_31.wav"/>
+				</layers>ZildMstrsnd-DynSmiOpn
+			</instrument>
+			
+			<instrument name="15&quot; crash" noteNumber="57" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_07.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_11.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_15.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_19.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_23.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_25.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_27.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/15crs_ord_29.wav"/>
+				</layers>
+			</instrument>
+
+			<instrument name="8&quot; splash" noteNumber="52" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="15" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_08.wav"/>
+					<layer velLo="16" velHi="31" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_12.wav"/>
+					<layer velLo="32" velHi="47" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_14.wav"/>
+					<layer velLo="48" velHi="63" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_16.wav"/>
+					<layer velLo="64" velHi="79" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_18.wav"/>
+					<layer velLo="80" velHi="95" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_20.wav"/>
+					<layer velLo="96" velHi="111" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_23.wav"/>
+					<layer velLo="112" velHi="127" wave="/home/kellys/music/drum-samples/kits/samples/ns_7free/48k/8spl_ord_25.wav"/>
+				</layers>
+			</instrument>
+			-->
+			<instrument name="Crash" noteNumber="49" level="100" pan="-50">
+				<layers>
+					<layer velLo="0" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn08.wav"/>
+					<layer velLo="89" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 1-Dyn09.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="Crash II" noteNumber="57" level="100" pan="50">
+				<layers>
+					<layer velLo="0" velHi="22" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn02.wav"/>
+					<layer velLo="23" velHi="33" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn03.wav"/>
+					<layer velLo="34" velHi="44" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn04.wav"/>
+					<layer velLo="45" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn05.wav"/>
+					<layer velLo="56" velHi="66" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn06.wav"/>
+					<layer velLo="67" velHi="77" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn07.wav"/>
+					<layer velLo="78" velHi="88" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn08.wav"/>
+					<layer velLo="89" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/ZildjinCrsh 2-Dyn09.wav"/>
+				</layers>
+			</instrument>
+			
+			<instrument name="Ride" noteNumber="51" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="7" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn01.wav"/>
+					<layer velLo="8" velHi="15" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn02.wav"/>
+					<layer velLo="16" velHi="23" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn03.wav"/>
+					<layer velLo="24" velHi="31" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn04.wav"/>
+					<layer velLo="32" velHi="39" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn05.wav"/>
+					<layer velLo="40" velHi="47" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn06.wav"/>
+					<layer velLo="48" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn07.wav"/>
+					<layer velLo="56" velHi="63" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn08.wav"/>
+					<layer velLo="64" velHi="71" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn09.wav"/>
+					<layer velLo="72" velHi="79" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn10.wav"/>
+					<layer velLo="80" velHi="87" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn11.wav"/>
+					<layer velLo="88" velHi="95" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn12.wav"/>								
+					<layer velLo="96" velHi="103" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20-Dyn13.wav"/>								
+					<layer velLo="104" velHi="111" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell14.wav"/>								
+					<layer velLo="112" velHi="119" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell15.wav"/>								
+					<layer velLo="120" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell16.wav"/>								
+				</layers>			
+			</instrument>
+			
+			<instrument name="Ride Bell" noteNumber="53" level="100" pan="0">
+				<layers>
+					<layer velLo="0" velHi="7" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell01.wav"/>
+					<layer velLo="8" velHi="15" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell02.wav"/>
+					<layer velLo="16" velHi="23" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell03.wav"/>
+					<layer velLo="24" velHi="31" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell04.wav"/>
+					<layer velLo="32" velHi="39" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell05.wav"/>
+					<layer velLo="40" velHi="47" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell06.wav"/>
+					<layer velLo="48" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell07.wav"/>
+					<layer velLo="56" velHi="63" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell08.wav"/>
+					<layer velLo="64" velHi="71" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell09.wav"/>
+					<layer velLo="72" velHi="79" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell10.wav"/>
+					<layer velLo="80" velHi="87" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell11.wav"/>
+					<layer velLo="88" velHi="95" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell12.wav"/>								
+					<layer velLo="96" velHi="103" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell13.wav"/>								
+					<layer velLo="104" velHi="111" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell14.wav"/>								
+					<layer velLo="112" velHi="119" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell15.wav"/>								
+					<layer velLo="120" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/SabHHXEvo20_Bell16.wav"/>								
+				</layers>			
+			</instrument>
+			
+		
+			<instrument name="hi tom" noteNumber="48" level="100" pan="25">
+				<layers>
+					<layer velLo="0" velHi="7" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH01.wav"/>
+					<layer velLo="8" velHi="15" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH02.wav"/>
+					<layer velLo="16" velHi="23" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH03.wav"/>
+					<layer velLo="24" velHi="31" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH04.wav"/>
+					<layer velLo="32" velHi="39" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH05.wav"/>
+					<layer velLo="40" velHi="47" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH06.wav"/>
+					<layer velLo="48" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH07.wav"/>
+					<layer velLo="56" velHi="63" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH08.wav"/>
+					<layer velLo="64" velHi="71" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH09.wav"/>
+					<layer velLo="72" velHi="79" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH10.wav"/>
+					<layer velLo="80" velHi="87" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH11.wav"/>
+					<layer velLo="88" velHi="95" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH12.wav"/>								
+					<layer velLo="96" velHi="103" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH13.wav"/>								
+					<layer velLo="104" velHi="111" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH14.wav"/>								
+					<layer velLo="112" velHi="119" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH15.wav"/>								
+					<layer velLo="120" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom1-DynLH16.wav"/>					
+				</layers>
+			</instrument>
+			
+			<instrument name="Mid tom" noteNumber="45" level="100" pan="-25">
+				<layers>
+					<layer velLo="0" velHi="7" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH01.wav"/>
+					<layer velLo="8" velHi="15" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH02.wav"/>
+					<layer velLo="16" velHi="23" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH03.wav"/>
+					<layer velLo="24" velHi="31" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH04.wav"/>
+					<layer velLo="32" velHi="39" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH05.wav"/>
+					<layer velLo="40" velHi="47" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH06.wav"/>
+					<layer velLo="48" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH07.wav"/>
+					<layer velLo="56" velHi="63" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH08.wav"/>
+					<layer velLo="64" velHi="71" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH09.wav"/>
+					<layer velLo="72" velHi="79" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH10.wav"/>
+					<layer velLo="80" velHi="87" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH11.wav"/>
+					<layer velLo="88" velHi="95" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH12.wav"/>								
+					<layer velLo="96" velHi="103" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH13.wav"/>								
+					<layer velLo="104" velHi="111" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH14.wav"/>								
+					<layer velLo="112" velHi="119" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH15.wav"/>								
+					<layer velLo="120" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynLH16.wav"/>					
+				</layers>
+			</instrument>
+			
+			
+			<instrument name="Low Tom" noteNumber="41" level="100" pan="-50">
+				<layers>
+					<layer velLo="0" velHi="7" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH01.wav"/>
+					<layer velLo="8" velHi="15" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH02.wav"/>
+					<layer velLo="16" velHi="23" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH03.wav"/>
+					<layer velLo="24" velHi="31" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH04.wav"/>
+					<layer velLo="32" velHi="39" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH05.wav"/>
+					<layer velLo="40" velHi="47" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH06.wav"/>
+					<layer velLo="48" velHi="55" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH07.wav"/>
+					<layer velLo="56" velHi="63" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH08.wav"/>
+					<layer velLo="64" velHi="71" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH09.wav"/>
+					<layer velLo="72" velHi="79" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH10.wav"/>
+					<layer velLo="80" velHi="87" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH11.wav"/>
+					<layer velLo="88" velHi="95" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH12.wav"/>								
+					<layer velLo="96" velHi="103" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH13.wav"/>								
+					<layer velLo="104" velHi="111" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH14.wav"/>								
+					<layer velLo="112" velHi="119" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH15.wav"/>								
+					<layer velLo="120" velHi="127" wave="/home/joe/Studio/drumkits/Analogue Drums/Wav/CLudwigTom2-DynRH16.wav"/>					
+				</layers>
+			</instrument>
+		</instruments>
+	</drumkit>
+</wavePlayer>
+
